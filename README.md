@@ -18,7 +18,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [xxxSkypper](https://github.com/xxxSkypper)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [vercel](https://product-preview-card-component-master.vercel.app/)
 
 ### Built with
 
